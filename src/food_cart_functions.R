@@ -5,4 +5,3 @@ name_cart <- function(food, animal) {
   
 }
 
-name_cart(food = "burrito", animal = "pika")
